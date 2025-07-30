@@ -93,4 +93,4 @@ python simple_osint_improved.py instagram_user --social-search --image-download
 - headers محسنة لتجنب الحظر
 - أنماط بحث متعددة للبيانات
 - دعم أفضل للغات المختلفة
-- تقارير أكثر تفصيلاً 
+
